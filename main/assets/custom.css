@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'AllianceNo2-Light'; 
+    src: url('AllianceNo2-Light.otf');
+}
+
+body {
+    margin: 10%;
+    overflow-x: hidden;
+    text-align: center;
+    font-family: "AllianceNo2-Light";
+    font-size: 2.5rem;
+}
+
